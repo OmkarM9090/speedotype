@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SpeedoType Screenshot](screenshots/photo.png)
+![SpeedoType Screenshot](screenshots/photo1.png)
 </div>
 
 <p align="center">
