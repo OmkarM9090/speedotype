@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SpeedoType Screenshot](https://i.imgur.com/your-image-code.png)
+![SpeedoType Screenshot](screenshots/photo.png)
 </div>
 
 <p align="center">
